@@ -1,7 +1,0 @@
-D:\DOR\לימודים\מדמח\ג\C#\עבודות הגשה\מטלות2021\A22 Ex05 DorSarussi 205404528 AviShilon 312175078\A22 Ex05 DorSarussi 205404528 AviShilon 312175078\A22.Ex05.GameLogic\bin\Debug\A22.Ex05.GameLogic.dll.config
-D:\DOR\לימודים\מדמח\ג\C#\עבודות הגשה\מטלות2021\A22 Ex05 DorSarussi 205404528 AviShilon 312175078\A22 Ex05 DorSarussi 205404528 AviShilon 312175078\A22.Ex05.GameLogic\bin\Debug\A22.Ex05.GameLogic.dll
-D:\DOR\לימודים\מדמח\ג\C#\עבודות הגשה\מטלות2021\A22 Ex05 DorSarussi 205404528 AviShilon 312175078\A22 Ex05 DorSarussi 205404528 AviShilon 312175078\A22.Ex05.GameLogic\bin\Debug\A22.Ex05.GameLogic.pdb
-D:\DOR\לימודים\מדמח\ג\C#\עבודות הגשה\מטלות2021\A22 Ex05 DorSarussi 205404528 AviShilon 312175078\A22 Ex05 DorSarussi 205404528 AviShilon 312175078\A22.Ex05.GameLogic\obj\Debug\BullsAndCown.GameLogic.csprojAssemblyReference.cache
-D:\DOR\לימודים\מדמח\ג\C#\עבודות הגשה\מטלות2021\A22 Ex05 DorSarussi 205404528 AviShilon 312175078\A22 Ex05 DorSarussi 205404528 AviShilon 312175078\A22.Ex05.GameLogic\obj\Debug\BullsAndCown.GameLogic.csproj.CoreCompileInputs.cache
-D:\DOR\לימודים\מדמח\ג\C#\עבודות הגשה\מטלות2021\A22 Ex05 DorSarussi 205404528 AviShilon 312175078\A22 Ex05 DorSarussi 205404528 AviShilon 312175078\A22.Ex05.GameLogic\obj\Debug\A22.Ex05.GameLogic.dll
-D:\DOR\לימודים\מדמח\ג\C#\עבודות הגשה\מטלות2021\A22 Ex05 DorSarussi 205404528 AviShilon 312175078\A22 Ex05 DorSarussi 205404528 AviShilon 312175078\A22.Ex05.GameLogic\obj\Debug\A22.Ex05.GameLogic.pdb
